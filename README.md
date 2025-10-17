@@ -1,8 +1,8 @@
-# VimMan - Pacman-style game to turn `hjkl` into muscle memory
+# VimMan - turn `hjkl` into muscle memory
 
 Vim is an amazing tool for productivity, but some parts are hard to learn. Replacing the arrow keys for movement requires ignoring the reflexes built up from decades of PC-gaming.
 
-To fight fire with fire, this browser-based pacman-style game helps you learn `hjkl` in a fun, frantic and addictive way.
+To fight fire with fire, __this browser-based pacman-style game helps you learn `hjkl` in a fun, frantic and addictive way__.
 
 ![VimMan Screenshot](img/vimman-screenshot.png)
 
